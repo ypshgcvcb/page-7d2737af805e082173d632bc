@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--trojan-gj7k537u.com/sitemap.xml
